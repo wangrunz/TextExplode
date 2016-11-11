@@ -13,6 +13,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        android:id="@+id/textview" />
+        android:text="Select the text from any App, click on Text Explode button on floating menu and explode the text!"
+        android:id="@+id/textview"
+        android:textSize="18sp" />
 </RelativeLayout>
